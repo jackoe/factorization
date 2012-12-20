@@ -1,0 +1,59 @@
+Tfactors
+v7
+r0
+t317119112.588253
+cCheck dependencies
+cCompileC build/factors.build/Debug/factors.build/Objects-normal/x86_64/main.o /Users/jackwines/Desktop/factors/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/jackwines/Desktop/factors/build/Debug/factors normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Users/jackwines/Desktop/factors/build/Debug/factors
+t1295426312
+s10560
+
+N/Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/Objects-normal/x86_64/factors.LinkFileList
+c000000004D36A3070000000000000066
+t1295426311
+s102
+
+N/Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/Objects-normal/x86_64/main.o
+t1295426311
+s67128
+
+N/Users/jackwines/Desktop/factors/main.cpp
+c000000004D36A306000000000000016F
+t1295426310
+s367
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317119110#317119111#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/factors.build/Debug/factors.build/Objects-normal/x86_64/main.o /Users/jackwines/Desktop/factors/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317119111.088730
+e317119111.978495
+r1
+xCompileC
+xbuild/factors.build/Debug/factors.build/Objects-normal/x86_64/main.o
+x/Users/jackwines/Desktop/factors/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/jackwines/Desktop/factors/main.cpp317119111#317119111#0(0"0(0#0#41"/Users/jackwines/Desktop/factors/main.cpp3401403401131030528#1225"    cd /Users/jackwines/Desktop/factors    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/factors-generated-files.hmap -I/Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/factors-own-target-headers.hmap -I/Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/factors-all-target-headers.hmap -iquote /Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/factors-project-headers.hmap -F/Users/jackwines/Desktop/factors/build/Debug -I/Users/jackwines/Desktop/factors/build/Debug/include -I/Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/DerivedSources/x86_64 -I/Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/DerivedSources -c /Users/jackwines/Desktop/factors/main.cpp -o /Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/jackwines/Desktop/factors/build/Debug/factors normal x86_64
+s317119111.978579
+e317119112.588088
+r1
+xLd
+x/Users/jackwines/Desktop/factors/build/Debug/factors
+xnormal
+xx86_64
+lSLF07#2@57"Link /Users/jackwines/Desktop/factors/build/Debug/factors317119111#317119112#0(0"0(0#0#0"8612373984#468"    cd /Users/jackwines/Desktop/factors    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jackwines/Desktop/factors/build/Debug -F/Users/jackwines/Desktop/factors/build/Debug -filelist /Users/jackwines/Desktop/factors/build/factors.build/Debug/factors.build/Objects-normal/x86_64/factors.LinkFileList -mmacosx-version-min=10.6 -o /Users/jackwines/Desktop/factors/build/Debug/factors0#
+
